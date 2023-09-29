@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 const SimpleOperations = ({ oper }) => (
-  <div className="complex_operations">
+  <div className="sim_operations">
     <p>{oper}</p>
   </div>
 );
