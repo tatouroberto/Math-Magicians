@@ -11,7 +11,8 @@ const Numbers = () => (
     <p>7</p>
     <p>8</p>
     <p>9</p>
-    <p>.</p>
+    <p id="num_pad_zero">0</p>
+    <p id="num_pad_dot">.</p>
   </div>
 );
 
